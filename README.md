@@ -57,7 +57,7 @@ SOFTWARE.
 
 ## Contact:
 Xian Lai    
-Data Scientist
+Data Scientist  
 xian_lai@126.com   
 
 
